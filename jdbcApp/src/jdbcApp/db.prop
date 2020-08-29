@@ -1,0 +1,7 @@
+#Regular properties to run JDBC Applications
+#Wed Jul
+dri=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/students
+un=root
+pw=root
+
